@@ -8,7 +8,7 @@ assignees: ''
 
 ## 📞 Radius Community Meeting
 
-Every month we host a [community meeting](../../README.MD#community-meetings) to highlight community created content, showcase new features, review upcoming milestones, and engage in Q&A with the Radius community - all are welcome and encouraged to participate.
+Every month we host a [community meeting](https://github.com/project-radius/community/#community-meetings) to highlight community created content, showcase new features, review upcoming milestones, and engage in Q&A with the Radius community - all are welcome and encouraged to participate.
 
 The purpose of this thread is to form a discussion amongst the Radius community on potential topics to highlight during the meeting. If you have a topic you wish to present or learn more about, please add a comment and be sure to include your name and a short description of the topic.
 
