@@ -43,7 +43,7 @@ Issues in the community repo are used to suggest topics for an upcoming Radius c
 
 <!-- Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `project-radius/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today. -->
 
-<!-- You can always catch up offline by watching the recordings on the Radius YouTube channel. -->
+<!-- You can always catch up offline by watching the recordings below. -->
 
 <!-- | Asset | Link        |
 |:-----------|:------------|
