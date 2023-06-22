@@ -39,7 +39,7 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 
 Every month we host a community call to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Radius community can participate, present a topic, or host. All are welcome!
 
-Issues in the community repo are used to suggest topics for an upcoming Radius community call. The upcoming three community meetings are pinned as issues in this repository. If you would like to present or discuss something during an upcoming community meeting, please propose the topic add a comment to the issue corresponding to the desired meeting occurrence. Alternatively, you may use the Community Call Chat channel in Discord to propose future agenda topics. The meeting agenda for each call is finalized by the community call host. 
+Issues in the community repo are used to suggest topics for an upcoming Radius community call. Upcoming community meetings are pinned as issues in this repository. If you would like to present or discuss something during an upcoming community meeting, please propose the topic and add a comment to the issue corresponding to the desired meeting occurrence. Alternatively, you may use Discord to propose future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
 <!-- Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `project-radius/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today. -->
 
