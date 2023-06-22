@@ -47,10 +47,10 @@ Issues in the community repo are used to suggest topics for an upcoming Radius c
 
 <!-- You can always catch up offline by watching the recordings on the Radius YouTube channel. -->
 
-| Asset | Link        |
+<!-- | Asset | Link        |
 |:-----------|:------------|
 | 🔗 Meeting Link & Password | **Teams Meeting ID:** [233 636 139 087](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGYwN2ZlMGUtY2RkMy00NDVlLWI0Y2YtNWY3ZTQ4MzdkZmI1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223e1a3c9c-fb21-4845-8053-1f53bf388796%22%7d)<br>**Passcode:** JC5tiX 
-| 🎥 Meeting Recordings | https://aka.ms/ProjectRadius 
+| 🎥 Meeting Recordings | https://aka.ms/ProjectRadius  -->
 
 ### Upcoming dates
 
