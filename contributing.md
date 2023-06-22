@@ -1,3 +1,3 @@
 # Contributing to Radius
 
-Please see the [contribution section](https://docs.radapp.dev/contributing/) in the Radius docs.
+We welcome contributions to many of the Radius repos. Please see the [contribution docs](https://docs.radapp.dev/contributing/) to learn where to get started.
