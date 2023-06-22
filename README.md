@@ -56,7 +56,7 @@ Do not add passcode to the Zoom URL.
 | 🔗 Meeting Link & Password | **Teams Meeting ID:** [233 636 139 087](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGYwN2ZlMGUtY2RkMy00NDVlLWI0Y2YtNWY3ZTQ4MzdkZmI1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223e1a3c9c-fb21-4845-8053-1f53bf388796%22%7d)<br>**Passcode:** JC5tiX 
 | 🎥 Meeting Recordings | https://aka.ms/ProjectRadius 
 
-**Upcoming dates**:
+### Upcoming dates
 
 Use the upcoming calendar events below to add the community call events to your calendar.
 
