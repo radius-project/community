@@ -8,10 +8,8 @@ Welcome to the Radius community. This is the starting point for becoming a contr
 - [Radius authors](#radius-authors)
 - [Communication and Discord](#communication-and-discord)
     - [Questions and issues](#questions-and-issues)
-    - [Community meetings](#community-meetings)
-- [Radius blog](#radius-blog)
-- [Community membership](#community-membership)
-- [How can I get involved?](#how-can-i-get-involved?)
+- [Community meetings](#community-meetings)
+    - [Upcoming dates](#upcoming-dates)
 
 ## Introduction
 
