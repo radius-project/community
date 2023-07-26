@@ -6,8 +6,8 @@ This doc outlines the responsibilities of contributor roles in Radius. The Radiu
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Member     | Active contributor in the community.  Reviewer of PRs | Sponsored by two approvers or maintainers. Multiple contributions to the project. | Radius GitHub org member                           |
-| Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
-| Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
+| Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a project. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
+| Maintainer | Set direction and priorities for a project         | Demonstrated responsibility and excellent technical judgement for the project. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
 
 <!--
@@ -111,7 +111,7 @@ The following apply to the part of the codebase for which one would be an approv
 
 ## Maintainer
 
-Maintainers are the technical authority for a subproject in the Radius org. They *MUST* have demonstrated both good judgement and responsibility towards the health of that subproject. Maintainers *MUST* set technical direction and make or approve design decisions for their subproject - either directly or through delegation of these responsibilities.
+Maintainers are the technical authority for a project in the Radius org. They *MUST* have demonstrated both good judgement and responsibility towards the health of that project. Maintainers *MUST* set technical direction and make or approve design decisions for their project - either directly or through delegation of these responsibilities.
 
 Defined by: GitHub organization ownership, permissions and entry in `CODEOWNERS`
 files.
@@ -120,7 +120,7 @@ files.
 
 The following apply to the project for which one would be an owner:
 
-- Deep understanding of the technical goals and direction of the subproject
+- Deep understanding of the technical goals and direction of the project
 - Deep understanding of the technical domain (specifically the language) of the
   project
 - Sustained contributions to design and direction by doing all of:
@@ -152,7 +152,7 @@ The following apply to the repos for which one would be an owner:
   - Decides on when PRs are merged to control the release scope
 - Mentor and guide approvers and contributors to the project
 - Escalate *approver* and *maintainer* workflow concerns (i.e. responsiveness, availability, and general contributor community health) to the TC
-- Ensure continued health of subproject:
+- Ensure continued health of project:
   - Adequate test coverage to confidently release
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
 - Ensure a healthy process for discussion and decision making is in place
