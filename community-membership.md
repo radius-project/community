@@ -46,12 +46,12 @@ Defined by: Member of the Radius GitHub organization
   - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc
   - Sponsors must be approvers or maintainers in at least one CODEOWNERS file in any repo in the Radius org
 - [Open an
-  issue](https://github.com/project-radius/community/tree/main/.github/ISSUE_TEMPLATE?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E)
+  issue](https://github.com/radius-project/community/tree/main/.github/ISSUE_TEMPLATE?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E)
   against the
-  [Radius/community](https://github.com/project-radius/community) repo
+  [Radius/community](https://github.com/radius-project/community) repo
   - Ensure your sponsors are `@mentioned` on the issue
   - Complete every item on the checklist ([preview the current version of the
-    template- must update link](https://github.com/project-radius/community/tree/main/.github/ISSUE_TEMPLATE/membership.md))
+    template- must update link](https://github.com/radius-project/community/tree/main/.github/ISSUE_TEMPLATE/membership.md))
   - Make sure that the list of contributions included is representative of your work on the project
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
 - Once your sponsors have responded, your request will be reviewed by the Steering & Technical Committee (STC). Any member of the Steering & Technical Committee can review the requirements and add Members to the GitHub org
