@@ -41,7 +41,7 @@ Every month we host a community call to showcase new features, review upcoming m
 
 Issues in the community repo are used to suggest topics for an upcoming Radius community call. Upcoming community meetings are pinned as issues in this repository. If you would like to present or discuss something during an upcoming community meeting, please propose the topic and add a comment to the issue corresponding to the desired meeting occurrence. Alternatively, you may use Discord to propose future agenda topics. The meeting agenda for each call is finalized by the community call host.
 
-<!-- Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `project-radius/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today. -->
+<!-- Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `radius-project/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today. -->
 
 <!-- You can always catch up offline by watching the recordings below. -->
 
@@ -89,14 +89,14 @@ One of the easiest ways to contribute is to participate in discussions at commun
 
 If you're looking for something to work on, read the [contribution guidelines](https://docs.radapp.dev/contributing/) and then you start by looking for GitHub issues, marked with `good first issue` or the `help wanted` labels:
 
-- [Radius repo](https://github.com/project-radius/radius/labels/good%20first%20issue)
-- [Documentation repo](https://github.com/project-radius/docs/labels/good%20first%20issue)
-- [Recipes repo](https://github.com/project-radius/recipes/labels/good%20first%20issue)
-- [Samples repo](https://github.com/project-radius/samples/labels/good%20first%20issue)
+- [Radius repo](https://github.com/radius-project/radius/labels/good%20first%20issue)
+- [Documentation repo](https://github.com/radius-project/docs/labels/good%20first%20issue)
+- [Recipes repo](https://github.com/radius-project/recipes/labels/good%20first%20issue)
+- [Samples repo](https://github.com/radius-project/samples/labels/good%20first%20issue)
 
 And, we can always use more testing, have more and improved docs, or just write a blog post on what you have discovered whilst using Radius.
 
-If you're a developer, read the [development guide](https://github.com/project-radius/radius/tree/main/docs) for help on how to get started.
+If you're a developer, read the [development guide](https://github.com/radius-project/radius/tree/main/docs) for help on how to get started.
 
 ## Code of Conduct
 
