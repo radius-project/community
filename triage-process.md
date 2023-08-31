@@ -1,6 +1,6 @@
 # Triage Process
 
-Triaging is a multi-step process that is performed by the issue tracker and the sub-project/feature owners.The goal of triaging is to provide a clear understanding of what will happen to issues that are opened. For example, after a feature request is triaged, it will be clear whether the issue will be picked up or closed. After an issue is received and triaged, it will either be assigned to the backlog, a specific milestone or closed.
+Triaging is a multi-step process that is performed by the issue tracker and the sub-project/feature owners. The goal of triaging is to provide a clear understanding of what will happen to issues that are opened. For example, after a feature request is triaged, it will be clear whether the issue will be picked up or closed. After an issue is received and triaged, it will either be assigned to the backlog, a specific milestone or closed.
 
 ## Goals
 
