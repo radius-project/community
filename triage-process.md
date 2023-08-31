@@ -1,10 +1,10 @@
 # Triage Process
 
-Triaging is a multi-step process that is performed by the issue tracker and the sub-project/feature owners.The goal of triaging is to provide a clear understanding of what will happen to issues that are opened. For example, after a feature request is triaged, it will be clear whether the issue will be picked up or closed. After an issue is received and triaged, it will either be assigned to the backlog, a specific milestone or closed. 
+Triaging is a multi-step process that is performed by the issue tracker and the sub-project/feature owners.The goal of triaging is to provide a clear understanding of what will happen to issues that are opened. For example, after a feature request is triaged, it will be clear whether the issue will be picked up or closed. After an issue is received and triaged, it will either be assigned to the backlog, a specific milestone or closed.
 
 ## Triaging Flow
 
-Below is the basic flow that an issue goes through. At any step in the flow the issue may be closed. 
+Below is the basic flow that an issue goes through. At any step in the flow the issue may be closed.
 
 ![Radius Triage Flow](./images/radius_triage.jpg "Radius Triage Flow")
 
@@ -17,7 +17,7 @@ Issues are closed for the following reasons:
 | Issue is obsolete or fixed | |
 | Needed information not received within 7 days| `needs more info` |
 | It's a duplicate of another issue| `duplicate` |
-| Behavior is as designed| `as-designed`` |
+| Behavior is as designed| `by-design` |
 | Issue is a developer question | `dev-question` |
 | Issue ia a user question | `question` |
 | Issue is not related to the goals of the project so is unactionable | `off-topic` |
@@ -32,7 +32,7 @@ If an issue is missing information that need to understand the issue, a `needs m
 
 ## Categorizing Issues
 
-Each issue will be assigned a **type** label. 
+Each issue will be assigned a **type** label.
 
 |**Type**| **Description**|
 :-| :--------
@@ -40,7 +40,7 @@ Each issue will be assigned a **type** label.
 | `bug` | the implementation of a feature is not correct |
 | `feature-request` | request for a new feature |
 | `under-discussion` | not decided whether issue is bug or feature |
-| `debt` | improve the implementation/architecture |
+| `tech-debt` | improve the implementation/architecture |
 | `upstream` | used to track an issue in an upstream dependency |
 | `engineering` | issues related to engineering system or processes |
 | `polish` | a feature could be improved but not a bug |
@@ -56,6 +56,7 @@ TBD when we define milestones... will we continue to use sprint numbers?
 ## Important Issues
 
 We assign the `important` label to issues that:
+
 * result in data loss
 * break basic functionality
 * are critical security/performance issues
@@ -67,7 +68,7 @@ Feature requests are used as a means of communication between the members of the
 
 If you are the author of a feature request you might not like that we close or don't plan to address your request. It might even feel like a slap in your face. We understand that. All of us have been there—in this project or others we have contributed to. So, be assured, we love all of your input. Don't take personal offense when we close it. If you feel your feature request deserves to stay open, improve your use case and ping us or gather more support within the community.
 
-This is our decision making tree. 
+This is our decision making tree.
 
 ![Radius Issue Review Flow](./images/radius_review.jpg "Radius Issue Review Flow")
 
