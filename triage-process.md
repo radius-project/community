@@ -2,6 +2,15 @@
 
 Triaging is a multi-step process that is performed by the issue tracker and the sub-project/feature owners.The goal of triaging is to provide a clear understanding of what will happen to issues that are opened. For example, after a feature request is triaged, it will be clear whether the issue will be picked up or closed. After an issue is received and triaged, it will either be assigned to the backlog, a specific milestone or closed.
 
+## Goals
+
+The goals for triage are:
+
+* Make triaging decisions easier by defining rules and processes
+* Easily prioritize work for each milestone
+* Set expectations with the community regarding how issues are handled
+
+
 ## Triaging Flow
 
 Below is the basic flow that an issue goes through. At any step in the flow the issue may be closed.
@@ -18,13 +27,15 @@ Issues are closed for the following reasons:
 | Needed information not received within 7 days| `needs more info` |
 | It's a duplicate of another issue| `duplicate` |
 | Behavior is as designed| `by-design` |
-| Issue is a developer question | `dev-question` |
-| Issue ia a user question | `question` |
+| Issue is a developer question <sup>1</sup>| `dev-question` |
+| Issue ia a user question <sup>1</sup> | `question` |
 | Issue is not related to the goals of the project so is unactionable | `off-topic` |
 | Issue does not contain valid information or was unintended | `invalid` |
 | Issue cannot be reproduced based on information given | `not-reproducible` |
 | Feature request is out of scope | `out-of-scope` |
 | Issue is due to upstream dependency | `upstream` |
+
+<sup>1</sup> All questions will be redirected to our [Discord server](https://discord.gg/SRG3ePMKNy)
 
 ## Requesting Information
 
@@ -51,7 +62,7 @@ Each issue will have a **feature area** label assigned during the triage process
 
 ## Assigning a Milestone
 
-TBD when we define milestones... will we continue to use sprint numbers?
+The Radius team plans and executes milestones in 2 week sprints which are incremented numerically. Any item not in the current sprint will be put in the **backlog** milestone. Sprint planning is completed on the first day of the sprint and pulls all items from the backlog. 
 
 ## Important Issues
 
