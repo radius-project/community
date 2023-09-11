@@ -35,11 +35,12 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 |:----------|:------------|
 | 💬 Discord (preferred) | Join the Discord server:<br />https://discord.gg/WnWqYa6QTH
 
-## Community meetings
+<!-- ## Community meetings
 
 Every month we host a community call to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Radius community can participate, present a topic, or host. All are welcome!
 
 Issues in the community repo are used to suggest topics for an upcoming Radius community call. Upcoming community meetings are pinned as issues in this repository. If you would like to present or discuss something during an upcoming community meeting, please propose the topic and add a comment to the issue corresponding to the desired meeting occurrence. Alternatively, you may use Discord to propose future agenda topics. The meeting agenda for each call is finalized by the community call host.
+-->
 
 <!-- Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `radius-project/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today. -->
 
@@ -50,9 +51,11 @@ Issues in the community repo are used to suggest topics for an upcoming Radius c
 | 🔗 Meeting Link & Password | **Teams Meeting ID:** TBD
 | 🎥 Meeting Recordings | https://aka.ms/ProjectRadius  -->
 
+<!--
 ### Upcoming dates
 
 Use the upcoming calendar events below to add the community call events to your calendar.
+-->
 
 <!--
 !!!REMINDER!!!
@@ -61,15 +64,6 @@ When adding new scheduled meetings to this list:
 * make sure to update the URL for each entry too. The `iso` param should be updated following the `YYYYMMDD` format.
 * make sure the suffix is correct for the numeral: `st`, `nd`, `th` so it reads right like `22nd` and not `22th`
 -->
-
-| Date | Topic(s) | Meeting Link | Recording |
-|------|----------|--------------|-----------|
-| Thursday Feb 16th 9:00am Pacific Time (PST) | v0.17 release | - | [Stream](https://microsoft.sharepoint.com/:v:/r/teams/radius/Shared%20Documents/General/Community%20Calls/2023-02-16%20Project%20Radius%20Community%20Call.mp4?csf=1&web=1&e=u11ceV) |
-| Thursday Mar 16th 9:00am Pacific Time (PST) | v0.18 release | - | [Stream](https://microsoft.sharepoint.com/:v:/r/teams/radius/Shared%20Documents/General/Community%20Calls/2023-03-16%20Project%20Radius%20Community%20Call.mp4?csf=1&web=1&e=LMW6HE) |
-| Thursday Apr 20th 9:00am Pacific Time (PST) | v0.19 release | - | [Stream](https://microsoft.sharepoint.com/:v:/r/teams/radius/Shared%20Documents/General/Community%20Calls/2023-04-20%20Project%20Radius%20Community%20Call.mp4?csf=1&web=1&e=RCA5Qx) |
-| Thursday May 18th 9:00am Pacific Time (PST) | v0.20 release | - | [Stream](https://microsoft.sharepoint.com/:v:/r/teams/radius/Shared%20Documents/General/Community%20Calls/2023-05-18%20Project%20Radius%20Community%20Call.mp4?csf=1&web=1&e=fKcbzm) |
-| Thursday June 15th 9:00am Pacific Time (PST) | v0.21 release | - | [Stream](https://microsoft.sharepoint.com/:v:/r/teams/radius/Shared%20Documents/General/Community%20Calls/2023-06-15%20Project%20Radius%20Community%20Call.mp4?csf=1&web=1&e=WIRhP5) |
-| Thursday July 13th 9:00am Pacific Time (PST) [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T09&p1=234&msg=Radius+Community+Call) | v0.22 release | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzI3ZTM1YmYtYTU3Yi00YWQ2LTk3OGQtOGQ5ZTQ5ODhmYmFm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223e1a3c9c-fb21-4845-8053-1f53bf388796%22%7d) | |
 
 <!-- ## Radius blog
 The [Radius blog](https://blog.radapp.dev/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion.  -->
