@@ -55,8 +55,8 @@ You can always catch up offline by watching the recordings below.
 
 Use the upcoming calendar events below to add the community call events to your calendar.
 
-| Date & time | Agenda
-| - | -
+| Date & time | Agenda |
+| - | - |
 | Tuesday October 31<sup>st</sup> 9:00am Pacific Time (PST) - [See it in your local time and add to your calendar](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T09&p1=234&msg=Radius+Community+Call) | radius-project/community#1
 
 
