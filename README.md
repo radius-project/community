@@ -17,7 +17,7 @@ Radius is a platform for developers and IT operators building cloud-native appli
 
 As the pace of innovation increases for cloud-native technologies, so does the need for rapid progress within application teams. Application teams need a platform that can let developers and operators work together, while still maintaining the agility their users and applications require. These are the challenges that Radius is designed to solve.
 
-Visit [radapp.dev](https://radapp.dev/) for information about Radius.
+Visit [radapp.io](https://radapp.io/) for information about Radius.
 
 ## Radius authors
 
@@ -66,7 +66,7 @@ When adding new scheduled meetings to this list:
 -->
 
 <!-- ## Radius blog
-The [Radius blog](https://blog.radapp.dev/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion.  -->
+The [Radius blog](https://blog.radapp.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion.  -->
 
 <!-- ## Community membership
 There are various contributor roles in the Radius community that you are strongly encouraged to be part of. Read [Community membership](community-membership.md)
@@ -81,7 +81,7 @@ There are a several different roles that are available in the community. -->
 
 One of the easiest ways to contribute is to participate in discussions at community engagements or write a blog entry.
 
-If you're looking for something to work on, read the [contribution guidelines](https://docs.radapp.dev/contributing/) and then you start by looking for GitHub issues, marked with `good first issue` or the `help wanted` labels:
+If you're looking for something to work on, read the [contribution guidelines](https://docs.radapp.io/community/contributing/overview/) and then you start by looking for GitHub issues, marked with `good first issue` or the `help wanted` labels:
 
 - [Radius repo](https://github.com/radius-project/radius/labels/good%20first%20issue)
 - [Documentation repo](https://github.com/radius-project/docs/labels/good%20first%20issue)
