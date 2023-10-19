@@ -81,7 +81,7 @@ There are a several different roles that are available in the community. -->
 
 One of the easiest ways to contribute is to participate in discussions at community engagements or write a blog entry.
 
-If you're looking for something to work on, read the [contribution guidelines](https://docs.radapp.dev/contributing/) and then you start by looking for GitHub issues, marked with `good first issue` or the `help wanted` labels:
+If you're looking for something to work on, read the [contribution guidelines](https://docs.radapp.io/community/contributing/docs/) and then you start by looking for GitHub issues, marked with `good first issue` or the `help wanted` labels:
 
 - [Radius repo](https://github.com/radius-project/radius/labels/good%20first%20issue)
 - [Documentation repo](https://github.com/radius-project/docs/labels/good%20first%20issue)
