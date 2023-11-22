@@ -36,6 +36,14 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 |:----------|:------------|
 | 💬 Discord (preferred) | Join the [Discord server](https://aka.ms/radius/discord)
 
+### Email announcements
+
+Want to stay up to date with Radius releases, community calls, and other announcements? Join the [radapp_io](https://groups.google.com/g/radapp_io) Google Group to stay up to date on the latest Radius news. You can join and customize your notification preferences. Average email volume is 1-2 emails a month.
+
+| Group | Link |
+|:------|:-----|
+| 📧 radapp_io | Join the [radapp_io Group](https://groups.google.com/g/radapp_io)
+
 ## Community meetings
 
 Every month we host a community call to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Radius community can participate, present a topic, or host. All are welcome!
