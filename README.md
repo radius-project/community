@@ -9,7 +9,8 @@ Welcome to the Radius community. This is the starting point for becoming a contr
 - [Communication and Discord](#communication-and-discord)
     - [Questions and issues](#questions-and-issues)
 - [Community meetings](#community-meetings)
-    - [Upcoming dates](#upcoming-dates)
+    - [Upcoming calls](#upcoming-calls)
+    - [Previous calls](#previous-calls)
 
 ## Introduction
 
@@ -50,14 +51,19 @@ You can always catch up offline by watching the recordings below.
 | 🔗 Meeting Link | https://aka.ms/radius/community-call
 | 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PLrZ6kld_pvgwYMLI-j_f0Dq2Dgv5MlK8R)
 
-
-### Upcoming dates
+### Upcoming calls
 
 Use the upcoming calendar events below to add the community call events to your calendar.
 
 | Date & time | Agenda |
 |-------------|--------|
-| [Thursday Nov 2<sup>nd</sup>, 2023 9:00am Pacific Time (PST)](https://youtu.be/EfGAwli5W4U?si=FqSq_nt1bKrtNDm2)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T09&p1=234&msg=Radius+Community+Call) | radius-project/community#7
+| Thursday Nov 30<sup>th</sup>, 2023 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T09&p1=234&msg=Radius+Community+Call) | radius-project/community#15
+
+### Previous calls
+
+| Date & time | Agenda |
+|-------------|--------|
+| [Thursday Nov 2<sup>nd</sup>, 2023 9:00am Pacific Time (PST)](https://youtu.be/EfGAwli5W4U?si=FqSq_nt1bKrtNDm2) | radius-project/community#7
 
 <!--
 !!!REMINDER!!!
@@ -68,6 +74,7 @@ When adding new scheduled meetings to this list:
 -->
 
 ## Radius blog
+
 The [Radius blog](https://blog.radapp.dev/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
 <!-- ## Community membership
