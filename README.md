@@ -65,12 +65,13 @@ Use the upcoming calendar events below to add the community call events to your 
 
 | Date & time | Agenda |
 |-------------|--------|
-| Thursday Nov 30<sup>th</sup>, 2023 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T09&p1=234&msg=Radius+Community+Call) | radius-project/community#15
+| Coming soon
 
 ### Previous calls
 
 | Date & time | Agenda |
 |-------------|--------|
+| [Thursday Nov 30<sup>th</sup>, 2023 9:00am Pacific Time (PST)](https://youtu.be/DtZnb-uD84I)] | radius-project/community#15
 | [Thursday Nov 2<sup>nd</sup>, 2023 9:00am Pacific Time (PST)](https://youtu.be/EfGAwli5W4U?si=FqSq_nt1bKrtNDm2) | radius-project/community#7
 
 <!--
