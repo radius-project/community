@@ -65,7 +65,7 @@ Use the upcoming calendar events below to add the community call events to your 
 
 | Date & time | Agenda |
 |-------------|--------|
-| Coming soon
+| Thursday Jan 25<sup>th</sup>, 2024 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T09&p1=234&msg=Radius+Community+Call) | radius-project/community#19
 
 ### Previous calls
 
