@@ -83,8 +83,7 @@ When adding new scheduled meetings to this list:
 -->
 
 ## Radius blog
-
-The [Radius blog](https://blog.radapp.dev/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
+The [Radius blog](https://blog.radapp.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
 <!-- ## Community membership
 There are various contributor roles in the Radius community that you are strongly encouraged to be part of. Read [Community membership](community-membership.md)
