@@ -9,7 +9,8 @@ Welcome to the Radius community. This is the starting point for becoming a contr
 - [Communication and Discord](#communication-and-discord)
     - [Questions and issues](#questions-and-issues)
 - [Community meetings](#community-meetings)
-    - [Upcoming dates](#upcoming-dates)
+    - [Upcoming calls](#upcoming-calls)
+    - [Previous calls](#previous-calls)
 
 ## Introduction
 
@@ -33,29 +34,45 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 
 | Platform  | Link        |
 |:----------|:------------|
-| 💬 Discord (preferred) | Join the Discord server:<br />https://discord.gg/WnWqYa6QTH
+| 💬 Discord (preferred) | Join the [Discord server](https://aka.ms/radius/discord)
 
-<!-- ## Community meetings
+### Email announcements
+
+Want to stay up to date with Radius releases, community calls, and other announcements? Join the [radapp_io](https://groups.google.com/g/radapp_io) Google Group to stay up to date on the latest Radius news. You can join and customize your notification preferences. Average email volume is 1-2 emails a month.
+
+| Group | Link |
+|:------|:-----|
+| 📧 radapp_io | Join the [radapp_io Group](https://groups.google.com/g/radapp_io)
+
+## Community meetings
 
 Every month we host a community call to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Radius community can participate, present a topic, or host. All are welcome!
 
 Issues in the community repo are used to suggest topics for an upcoming Radius community call. Upcoming community meetings are pinned as issues in this repository. If you would like to present or discuss something during an upcoming community meeting, please propose the topic and add a comment to the issue corresponding to the desired meeting occurrence. Alternatively, you may use Discord to propose future agenda topics. The meeting agenda for each call is finalized by the community call host.
--->
 
-<!-- Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `radius-project/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today. -->
+Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `radius-project/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
 
-<!-- You can always catch up offline by watching the recordings below. -->
+You can always catch up offline by watching the recordings below.
 
-<!-- | Asset | Link        |
+| Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link & Password | **Teams Meeting ID:** TBD
-| 🎥 Meeting Recordings | https://aka.ms/ProjectRadius  -->
+| 🔗 Meeting Link | https://aka.ms/radius/community-call
+| 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PLrZ6kld_pvgwYMLI-j_f0Dq2Dgv5MlK8R)
 
-<!--
-### Upcoming dates
+### Upcoming calls
 
 Use the upcoming calendar events below to add the community call events to your calendar.
--->
+
+| Date & time | Agenda |
+|-------------|--------|
+| Thursday Jan 25<sup>th</sup>, 2024 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T09&p1=234&msg=Radius+Community+Call) | radius-project/community#19
+
+### Previous calls
+
+| Date & time | Agenda |
+|-------------|--------|
+| [Thursday Nov 30<sup>th</sup>, 2023 9:00am Pacific Time (PST)](https://youtu.be/DtZnb-uD84I)] | radius-project/community#15
+| [Thursday Nov 2<sup>nd</sup>, 2023 9:00am Pacific Time (PST)](https://youtu.be/EfGAwli5W4U?si=FqSq_nt1bKrtNDm2) | radius-project/community#7
 
 <!--
 !!!REMINDER!!!
@@ -65,8 +82,8 @@ When adding new scheduled meetings to this list:
 * make sure the suffix is correct for the numeral: `st`, `nd`, `th` so it reads right like `22nd` and not `22th`
 -->
 
-<!-- ## Radius blog
-The [Radius blog](https://blog.radapp.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion.  -->
+## Radius blog
+The [Radius blog](https://blog.radapp.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
 <!-- ## Community membership
 There are various contributor roles in the Radius community that you are strongly encouraged to be part of. Read [Community membership](community-membership.md)
