@@ -83,7 +83,16 @@ When adding new scheduled meetings to this list:
 * make sure the suffix is correct for the numeral: `st`, `nd`, `th` so it reads right like `22nd` and not `22th`
 -->
 
+## Office Hours 
+
+In addition to the community calls, we want to engage with the community 1:1 via Office hour sessions to help them get started with Radius. The Radius engineering team will be available between 9:30 AM - 10:00 AM PST on Wednesdays to help answer questions. Office hours are designed for anyone and not just Radius contributors. This is a great opportunity to ask questions, share feedback, or discuss anything related to Radius.
+
+| Asset | Link        |
+|:-----------|:------------|
+| 🔗 Booking Invite | [https://aka.ms/radius-office-hours](https://aka.ms/radius-office-hours)
+
 ## Radius blog
+
 The [Radius blog](https://blog.radapp.io/posts) has regular posts on releases, technical articles and upcoming events. If you would like to author a post, reach out to us with a suggestion. 
 
 <!-- ## Community membership
