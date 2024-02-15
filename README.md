@@ -46,8 +46,6 @@ Want to stay up to date with Radius releases, community calls, and other announc
 
 ## Community meetings
 
-### Community Calls
-
 Every month we host a community call to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Radius community can participate, present a topic, or host. All are welcome!
 
 Issues in the community repo are used to suggest topics for an upcoming Radius community call. Upcoming community meetings are pinned as issues in this repository. If you would like to present or discuss something during an upcoming community meeting, please propose the topic and add a comment to the issue corresponding to the desired meeting occurrence. Alternatively, you may use Discord to propose future agenda topics. The meeting agenda for each call is finalized by the community call host.
@@ -61,7 +59,7 @@ You can always catch up offline by watching the recordings below.
 | 🔗 Meeting Link | https://aka.ms/radius/community-call
 | 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PLrZ6kld_pvgwYMLI-j_f0Dq2Dgv5MlK8R)
 
-#### Upcoming calls
+### Upcoming calls
 
 Use the upcoming calendar events below to add the community call events to your calendar.
 
@@ -69,7 +67,7 @@ Use the upcoming calendar events below to add the community call events to your 
 |-------------|--------|
 | Thursday Feb 22<sup>nd</sup>, 2024 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240222T09&p1=234&msg=Radius+Community+Call) | radius-project/community#21
 
-#### Previous calls
+### Previous calls
 
 | Date & time | Agenda |
 |-------------|--------|
@@ -85,9 +83,9 @@ When adding new scheduled meetings to this list:
 * make sure the suffix is correct for the numeral: `st`, `nd`, `th` so it reads right like `22nd` and not `22th`
 -->
 
-### Office Hours 
+## Office Hours 
 
-In addition to the community calls, we want to engage with the community 1:1 via Office hour sessions to help them get started with Radius. The Radius core team will be available between 9:30 AM - 10:00 AM PST on Wednesdays to help answer questions. Office hours are designed for ALL and are not limited to those who commit source code. This is a great opportunity to ask questions, share feedback, or discuss anything related to Radius.
+In addition to the community calls, we want to engage with the community 1:1 via Office hour sessions to help them get started with Radius. The Radius engineering team will be available between 9:30 AM - 10:00 AM PST on Wednesdays to help answer questions. Office hours are designed for anyone and not just Radius contributors. This is a great opportunity to ask questions, share feedback, or discuss anything related to Radius.
 
 | Asset | Link        |
 |:-----------|:------------|
