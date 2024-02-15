@@ -89,7 +89,7 @@ In addition to the community calls, we want to engage with the community 1:1 via
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Booking Invite | [https://aka.ms/radius/community-call](https://aka.ms/radius-office-hours)
+| 🔗 Booking Invite | [https://aka.ms/radius-office-hours](https://aka.ms/radius-office-hours)
 
 ## Radius blog
 
