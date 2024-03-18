@@ -8,6 +8,7 @@ This doc outlines the responsibilities of contributor roles in Radius. The Radiu
 | Member     | Active contributor in the community.  Reviewer of PRs | Sponsored by two approvers or maintainers. Multiple contributions to the project. | Radius GitHub org member                           |
 | Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
+| On-call     | Live site support  | Members of the Radius engineering team |             Microsoft              |
 
 
 <!--
@@ -159,3 +160,29 @@ The following apply to the repos for which one would be an owner:
 - Work with other maintainers to maintain the project's overall health and success holistically
 
 Maintainers *MUST* remain active. If they are unresponsive for >3 months, they will be automatically removed unless a super-majority of the other repository maintainers agrees to extend the period to be greater than 3 months.
+
+## On-call
+
+The on-call team is sponsored by Microsoft, is comprised of members of the Radius engineering team and grants write permissions to active Radius repositories to support the project during live site incidents. 
+
+Defined by: Microsoft
+
+### Requirements
+
+The following apply to the project for which one would be on-call:
+
+- Full time employee of Microsoft
+- A member of the Radius engineering team
+- On active on-call rotation
+
+### Acceptance
+
+At this time there is no ability for non-Microsoft employees to join this team. 
+
+### Responsibilities and privileges
+
+The following apply to the repos for which one would be on-call:
+
+- Write access to allow investigation and fixing of failing functional tests
+- Ability to edit and close issues pertaining to live site issues
+
