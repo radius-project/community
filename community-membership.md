@@ -26,7 +26,7 @@ below.
 --> 
 ## Member
 
-Members are continuously active contributors in the community. They can have issues and PRs assigned to them. Members are expected to participate in community discussions and remain active contributors to the community.  
+Members are continuously active contributors in the community. They can have issues and PRs assigned to them. Members are expected to participate in community discussions and remain active contributors to the community. Members can also run Radius functional tests without approval from Approvers or Maintainers.
 
 Defined by: Member of the Radius GitHub organization
 
