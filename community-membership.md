@@ -40,7 +40,7 @@ Defined by: Member of the Radius GitHub organization
     chat, etc.)
 - [Joined the Discord server](https://discord.gg/eBTGDtcT7g)
 - Have read the [contributor
-  guide](https://docs.radapp.dev/contributing/)
+  guide](https://docs.radapp.io/contributing/overview/)
 - Actively contributing to 1 or more sub-projects
 - Sponsored by two approvers or maintainers (sponsors). Note the following requirements for sponsors:
   - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc
