@@ -86,9 +86,7 @@ Approver status can be scoped to a part of the codebase. For example, critical c
 
 The following apply to the part of the codebase for which one would be an approver in the `CODEOWNERS` files:
 - Reviewer of the codebase for at least 1 month
-- Reviewer for, or author of, at least 5 substantial PRs to the codebase,
-  with the definition of substantial area to the maintainer's discretion
-  (e.g. refactors/adds new functionality rather than one-line pulls)
+- Reviewer for at least 5 substantial PRs to the codebase, with the definition of substantial area to the maintainer's discretion (e.g. refactors/adds new functionality rather than one-line pulls)
 - Nominated by a maintainer from the repository in which the nomination is applied to:
   - With an approving vote of at least 2 maintainers from the repository maintainers. In the case of a repository with a solo maintainer, a single vote suffices
   - With no objections from other repository maintainers for a period of one week
