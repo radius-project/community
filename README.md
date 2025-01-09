@@ -71,7 +71,7 @@ Use the upcoming calendar events below to add the community call events to your 
 
 | Date & time | Agenda |
 |-------------|--------|
-| Tuesday November 19 <sup>th</sup>, 2024 9:00am Pacific Time (PST)](https://youtu.be/KKR1JauRq9c)| radius-project/community#54
+| [Tuesday November 19 <sup>th</sup>, 2024 9:00am Pacific Time (PST)](https://youtu.be/KKR1JauRq9c)| radius-project/community#54
 | [Tuesday October 08 <sup>th</sup>, 2024 9:00am Pacific Time (PST)](https://youtu.be/sMrY0qfEO4I)| radius-project/community#49
 | [Tuesday September 10 <sup>th</sup>, 2024 9:00am Pacific Time (PST)](https://youtu.be/nKijczG5AtQ?si=Om4vl9pSJjvN0HzV)| radius-project/community#46
 | [Tuesday August 13 <sup>th</sup>, 2024 9:00am Pacific Time (PST)](https://youtu.be/LBXfITfM8_E?si=Om4vl9pSJjvN0HzV)| radius-project/community#39
