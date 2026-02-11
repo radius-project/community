@@ -65,7 +65,7 @@ Use the upcoming calendar events below to add the community call events to your 
 
 | Date & time | Agenda |
 |-------------|--------|
-| Tuesday March 10 <sup>th</sup>, 2026 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T09&p1=234&msg=Radius+Community+Call) | radius-project/community#105
+| Tuesday March 17 <sup>th</sup>, 2026 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T09&p1=234&msg=Radius+Community+Call) | radius-project/community#105
 
 ### Previous calls
 
