@@ -1,2 +1,13 @@
 # These owners are the maintainers and approvers of this repo
 *       @radius-project/maintainers-community @radius-project/approvers-community
+
+# Ownership for dependency-related files. Allow the on-call team to approve
+# dependency version updates (e.g., from Dependabot PRs)
+
+# GitHub Actions workflow files (updated by Dependabot for action version bumps)
+.github/workflows/*.yaml  @radius-project/on-call @radius-project/maintainers-community @radius-project/approvers-community
+.github/workflows/*.yml   @radius-project/on-call @radius-project/maintainers-community @radius-project/approvers-community
+
+# GitHub config files (includes dependabot.yml and other GitHub configurations)
+.github/*.yaml  @radius-project/on-call @radius-project/maintainers-community @radius-project/approvers-community
+.github/*.yml   @radius-project/on-call @radius-project/maintainers-community @radius-project/approvers-community
