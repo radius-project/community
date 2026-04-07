@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://www.schemastore.org/github-workflow.json
+---
+name: Dependency Review
+
+on:
+  pull_request:
+
+permissions: {}
+
+jobs:
+  dependency-review:
+    uses: radius-project/.github/.github/workflows/__dependency-review.yml@main
+    permissions:
+      contents: read
+      pull-requests: write
+      checks: write
