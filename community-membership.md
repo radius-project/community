@@ -5,32 +5,30 @@ This doc outlines the responsibilities of contributor roles in Radius. The Radiu
 
 | **Role**   | **Responsibilities**                                  | **Requirements**                                             | **Defined by**                                               |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Contributor | Contribute source code, documentation or blog posts | At least one merged PR in one of the Dapr repositories. | GtiHub contributors listed per repository
 | Member     | Active contributor in the community.  Reviewer of PRs | Sponsored by two approvers or maintainers. Multiple contributions to the project. | Radius GitHub org member                           |
 | Approver   | Approve accepting contributions                       | Highly experienced and active reviewer and contributor to a subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) in GitHub |
 | Maintainer | Set direction and priorities for a subproject         | Demonstrated responsibility and excellent technical judgement for the subproject. | [CODEOWNERS](https://help.github.com/en/articles/about-code-owners), GitHub Team and repo ownership in GitHub |
 
-
-<!--
 ## New contributors
 
-New contributors should be welcomed to the community by existing members, helped
-with PR workflow, and directed to relevant documentation and communication
-channels.
+Everyone is welcome to contribute to Radius. Contribution can take many forms, it could be contributing source code to the many repositories, updating documentation, writing blog posts, or helping the community by answering questions on Discord or other social channels.
+
+New contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
 
 ## Established community members
 
 Established community members are expected to demonstrate their adherence to the
 principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability.
-Role-specific expectations, responsibilities, and requirements are enumerated
-below.
---> 
-## Member
+Role-specific expectations, responsibilities, and requirements are enumerated below.
+
+### Member
 
 Members are continuously active contributors in the community. They can have issues and PRs assigned to them. Members are expected to participate in community discussions and remain active contributors to the community.  
 
 Defined by: Member of the Radius GitHub organization
 
-### Requirements
+#### Requirements
 
 - Enabled [two-factor authentication](https://help.github.com/articles/about-two-factor-authentication) on their GitHub account
 - Have made multiple contributions to the project or community. Contributions may include, but is not limited to:
@@ -56,7 +54,7 @@ Defined by: Member of the Radius GitHub organization
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
 - Once your sponsors have responded, your request will be reviewed by the Steering & Technical Committee (STC). Any member of the Steering & Technical Committee can review the requirements and add Members to the GitHub org
 
-### Responsibilities and privileges
+#### Responsibilities and privileges
 
 - Responsive to issues and PRs assigned to them
 - Active owner of code contributed by them (unless ownership is explicitly
@@ -66,10 +64,10 @@ Defined by: Member of the Radius GitHub organization
   - Addresses bugs or issues discovered after code is accepted
   - Members are encouraged to review and approve via the GitHub workflow. This review work, while not sufficient to merge a PR, does accrue toward the Member becoming an Approver. Merge approval and final review are performed by an Approver
 - Members can be assigned to issues and PRs, and people can ask members for reviews with a `/cc @username`
-<!--
+
 > Note: members who frequently contribute code are expected to proactively perform code reviews and work towards becoming an *approver* for the sub-projects in which they are active.  Acceptance of code contributions requires at least one approver in addition to the reviews by *members.*
--->
-## Approver
+
+### Approver
 
 Code approvers are able to both review and approve code contributions, as well as help maintainers triage issues and do project management.
 
@@ -82,7 +80,7 @@ workflow](https://help.github.com/en/articles/about-code-owners).
 
 Approver status can be scoped to a part of the codebase. For example, critical core components may have higher bar for becoming an approver.
 
-### Requirements
+#### Requirements
 
 The following apply to the part of the codebase for which one would be an approver in the `CODEOWNERS` files:
 - Reviewer of the codebase for at least 1 month
@@ -93,7 +91,7 @@ The following apply to the part of the codebase for which one would be an approv
   - Steering committee acts as the final resolution to any escalation
   - Done through PR to update the `CODEOWNERS` 
 
-### Responsibilities and privileges
+#### Responsibilities and privileges
 
 The following apply to the part of the codebase for which one would be an approver in the `CODEOWNERS` files.
 
@@ -107,14 +105,14 @@ The following apply to the part of the codebase for which one would be an approv
 - May approve code contributions for acceptance
 - Inactivity for more than 3 months leads to a removal vote by other maintainers/approvers and not an automatic removal
 
-## Maintainer
+### Maintainer
 
 Maintainers are the technical authority for a subproject in the Radius org. They *MUST* have demonstrated both good judgement and responsibility towards the health of that subproject. Maintainers *MUST* set technical direction and make or approve design decisions for their subproject - either directly or through delegation of these responsibilities.
 
 Defined by: GitHub organization ownership, permissions and entry in `CODEOWNERS`
 files.
 
-### Requirements
+#### Requirements
 
 The following apply to the project for which one would be an owner:
 
@@ -126,21 +124,8 @@ The following apply to the project for which one would be an owner:
   - Initiating, contributing and resolving discussions (e.g. emails, GitHub issues, meetings)
   - Identifying subtle or complex issues in designs and implementation PRs
 - Directly contributed to the project through implementation and / or review
-<!-- Aligning with the overall project goals, specifications and design principles defined by the Technical & Steering Committee. Bringing general questions and requests to the discussions as part of specifications  -->
-<!-- Must have been active for 3 months or more for the given project
-- Inactivity for more than 3 months leads to a removal vote by other maintainers and not an automatic  -->
 
-<!---
-### Acceptance
-
-New maintainers can be added to the project by a super-majority (two-thirds / 66.66%) vote. Only the maintainers of the repository in which the nomination is applied to have a binding vote, while maintainers from other repositories are on an informed basis via a separate email thread. A potential maintainer may be nominated by an existing maintainer from the repository in which the nomination is applied to. A vote is conducted in private between the current maintainers over the course of a one week voting period. At the end of the week, votes are counted and a pull request is made on the repo adding the new maintainer to the CODEOWNERS file.
-
-Maintainers for new repositories can be nominated by any member of the steering committee and voted on in a steering committee meeting.
-Single maintainers of a repository can nominate a new maintainer and *MUST* inform the steering committee of their intention. The maintainer can be approved if no objections have been raised in a period of one week.
-
-A maintainer may step down by submitting an issue stating their intent.
--->
-### Responsibilities and privileges
+#### Responsibilities and privileges
 
 The following apply to the repos for which one would be an owner:
 
