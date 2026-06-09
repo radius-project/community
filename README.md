@@ -46,27 +46,6 @@ Want to stay up to date with Radius releases, community calls, and other announc
 
 ## Community meetings
 
-Every month we host a community call to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Radius community can participate, present a topic, or host. All are welcome!
-
-Issues in the community repo are used to suggest topics for an upcoming Radius community call. Upcoming community meetings are pinned as issues in this repository. If you would like to present or discuss something during an upcoming community meeting, please propose the topic and add a comment to the issue corresponding to the desired meeting occurrence. Alternatively, you may use Discord to propose future agenda topics. The meeting agenda for each call is finalized by the community call host.
-
-Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `radius-project/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
-
-You can always catch up offline by watching the recordings below.
-
-| Asset | Link        |
-|:-----------|:------------|
-| 🔗 Meeting Link | https://aka.ms/radius/community-call
-| 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PLrZ6kld_pvgwYMLI-j_f0Dq2Dgv5MlK8R)
-
-### Upcoming calls
-
-Use the upcoming calendar events below to add the community call events to your calendar.
-
-| Date & time | Agenda |
-|-------------|--------|
-| Tuesday May 12 <sup>th</sup>, 2026 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T09&p1=234&msg=Radius+Community+Call) | radius-project/community#112
-
 ### Previous calls
 
 | Date & time | Agenda |
