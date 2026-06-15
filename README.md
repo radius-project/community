@@ -45,6 +45,7 @@ Want to stay up to date with Radius releases, community calls, and other announc
 | 📧 radapp_io | Join the [radapp_io Group](https://groups.google.com/g/radapp_io)
 
 ## Community meetings
+> Quarterly community update coming soon!
 
 ### Previous calls
 
