@@ -1,9 +1,14 @@
 # yaml-language-server: $schema=https://www.schemastore.org/github-workflow.json
+# ------------------------------------------------------------------------------
+# This file is synced from the radius-project/.github repository.
+# DO NOT EDIT MANUALLY - changes will be overwritten by the next sync.
+# Source: https://github.com/radius-project/.github
+# ------------------------------------------------------------------------------
 ---
 name: Dependabot Manager
 
 on:
-  pull_request_target:
+  pull_request:
     types:
       - opened
       - reopened
