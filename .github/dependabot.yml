@@ -8,6 +8,7 @@
 ---
 version: 2
 
+
 updates:
   - package-ecosystem: github-actions
     directory: "/"
@@ -19,7 +20,7 @@ updates:
       prefix: ci
       include: scope
     groups:
-      all:
+      github-actions:
         applies-to: version-updates
         patterns:
           - "*"
