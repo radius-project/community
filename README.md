@@ -45,37 +45,17 @@ Want to stay up to date with Radius releases, community calls, and other announc
 | 📧 radapp_io | Join the [radapp_io Group](https://groups.google.com/g/radapp_io)
 
 ## Community meetings
-
-Every month we host a community call to showcase new features, review upcoming milestones, and engage in a Q&A. For community calls, anyone from the Radius community can participate, present a topic, or host. All are welcome!
-
-Issues in the community repo are used to suggest topics for an upcoming Radius community call. Upcoming community meetings are pinned as issues in this repository. If you would like to present or discuss something during an upcoming community meeting, please propose the topic and add a comment to the issue corresponding to the desired meeting occurrence. Alternatively, you may use Discord to propose future agenda topics. The meeting agenda for each call is finalized by the community call host.
-
-Community members (members of the Radius GitHub org) can nominate themselves via an issue in the `radius-project/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request, similar to how members and approvers get accepted today.
-
-You can always catch up offline by watching the recordings below.
-
-| Asset | Link        |
-|:-----------|:------------|
-| 🔗 Meeting Link | https://aka.ms/radius/community-call
-| 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PLrZ6kld_pvgwYMLI-j_f0Dq2Dgv5MlK8R)
-
-### Upcoming calls
-
-Use the upcoming calendar events below to add the community call events to your calendar.
-
-| Date & time | Agenda |
-|-------------|--------|
-| Tuesday December 9 <sup>th</sup>, 2025 9:00am Pacific Time (PST)<br />[_See it in your local time and add to your calendar_](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T09&p1=234&msg=Radius+Community+Call) | radius-project/community#97
+> Details for our quarterly community update coming soon!
 
 ### Previous calls
 
 | Date & time | Agenda |
 |-------------|--------|
-| [Tuesday October 14 <sup>th</sup>, 2025 9:00am Pacific Time (PST)] | (https://youtu.be/KHP0uhy1kvs?si=RAwJUS4JmMR_v-h5) | radius-project/community#95
+| [Wednesday March 18 <sup>th</sup>,2026 9:00am Pacific Time (PST)](https://youtu.be/GU3bqg92rYg?si=JXhq2Z_mr9tGX-iR) | radius-project/community#105
+| [Tuesday February 10 <sup>th</sup>, 2026 9:00am Pacific Time (PST)](https://youtu.be/TGEzsT22olk) | radius-project/community#103
+| [Tuesday December 9 <sup>th</sup>, 2025 9:00am Pacific Time (PST)](https://youtu.be/XJorwBWmWCI?si=NWYNe8VigIk4aFXw) | radius-project/community#97
+| [Tuesday October 14 <sup>th</sup>, 2025 9:00am Pacific Time (PST)](https://youtu.be/KHP0uhy1kvs?si=RAwJUS4JmMR_v-h5) | radius-project/community#95
 | [Tuesday September 9 <sup>th</sup>, 2025 9:00am Pacific Time (PST)](https://youtu.be/pa0xxanKrug?si=5pS6hPEMO1e-bc9V) | radius-project/community#93
-| [Tuesday August 12 <sup>th</sup>, 2025 9:00am Pacific Time (PST)](https://youtu.be/VNDRU-1brkE?feature=shared) | radius-project/community#91
-| [Tuesday July 8 <sup>th</sup>, 2025 9:00am Pacific Time (PST)](https://youtu.be/YgMxsbV0brc) | radius-project/community#88
-| [Tuesday June 10 <sup>th</sup>, 2025 9:00am Pacific Time (PST)](https://youtu.be/MNuoMSIs4Jo?si=-_R9cKgBKkPxFtCU) | radius-project/community#86
 
 <!--
 !!!REMINDER!!!

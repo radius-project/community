@@ -1,17 +1,29 @@
 # yaml-language-server: $schema=https://www.schemastore.org/dependabot-2.0.json
-# See GitHub's documentation for more information on this file:
-# https://docs.github.com/en/code-security/dependabot/working-with-dependabot/dependabot-options-reference
+# ------------------------------------------------------------------------------
+# This file is synced from the radius-project/.github repository.
+# DO NOT EDIT MANUALLY - changes will be overwritten by the next sync.
+# Source: https://github.com/radius-project/.github
+# Reference: https://docs.github.com/en/code-security/reference/supply-chain-security/dependabot-options-reference
+# ------------------------------------------------------------------------------
 ---
 version: 2
 
 updates:
   - package-ecosystem: github-actions
-    directory: /
+    directory: "/"
     schedule:
       interval: weekly
+    cooldown:
+      default-days: 7
     commit-message:
       prefix: ci
       include: scope
     groups:
       all:
-        patterns: ["*"]
+        applies-to: version-updates
+        patterns:
+          - "*"
+      security:
+        applies-to: security-updates
+        patterns:
+          - "*"
