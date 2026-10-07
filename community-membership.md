@@ -36,7 +36,7 @@ Defined by: Member of the Radius GitHub organization
   - Filing or commenting on issues on GitHub
   - Contributing to sub-projects, or community discussions (e.g. meetings,
     chat, etc.)
-- [Joined the Discord server](https://discord.gg/eBTGDtcT7g)
+- [Joined the Discord server](https://aka.ms/radius/discord)
 - Have read the [contributor
   guide](https://docs.radapp.io/contributing/overview/)
 - Actively contributing to 1 or more sub-projects
